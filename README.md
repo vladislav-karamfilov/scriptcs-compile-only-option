@@ -1,0 +1,1 @@
+# scriptcs-compile-only-option
