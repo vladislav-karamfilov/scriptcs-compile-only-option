@@ -4,7 +4,7 @@
 
     using ScriptCs.Contracts;
 
-    [Module("CompileOnlyOption", Extensions = "csx")]
+    [Module("compile-only-option", Extensions = "csx")]
     public class CompileOnlyOptionModule : IModule
     {
         public void Initialize(IModuleConfiguration config)
