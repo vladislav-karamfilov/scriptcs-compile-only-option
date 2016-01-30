@@ -1,7 +1,7 @@
 # ScriptCs.CompileOnlyOption
 
 ## What is it?
-This is a [scriptcs](https://github.com/scriptcs/scriptcs) module that allows you to compile only your script files. ScriptCs.CompileOnlyOption is useful when you want to execute a cached version of a script file which leads to improved performance.
+This is a [scriptcs](https://github.com/scriptcs/scriptcs) module that allows you to compile only your script files. **ScriptCs.CompileOnlyOption** is useful when you want to execute a cached version of a script file which leads to improved overall performance.
 
 ## Common usage
 From the command line execute:
